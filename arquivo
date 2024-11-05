@@ -8,7 +8,6 @@ letras.forEach(letra => {
 
 
 
-
 let paises= ["Brasil", "Argentina", "Chile"];
 console.log(paises.includes("Uruguai"));
 
@@ -35,5 +34,9 @@ console.log(produtos.indexOf("pão"));
 
 let cor= ["azul","verde","preto","amarelo"];
 console.log(cor.indexOf("preto"));
+
+let chá = ["chá","suco","água"];
+console.log(chá.includes("café"));
+
 
 
