@@ -30,3 +30,10 @@ console.log(números.includes(25));
 
 let produtos= ["leite", "açúcar", "pão", "manteiga"];
 console.log(produtos.indexOf("pão"));
+
+
+
+let cor= ["azul","verde","preto","amarelo"];
+console.log(cor.indexOf("preto"));
+
+
